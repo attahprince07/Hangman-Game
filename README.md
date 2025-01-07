@@ -2,7 +2,7 @@
 Hangman is an interactive word-guessing game where players try to guess a hidden word by suggesting letters within a limited number of attempts. This project is implemented in Python and allows users to play the classic game in a terminal or console environment.
 
 
-Features
+# Features
 
 Random word selection from a predefined word list.
 
@@ -14,16 +14,18 @@ Visual representation of the hangman stages.
 
 Tracks the player's progress and remaining attempts.
 
-Getting Started
 
-Prerequisites
+
+# Getting Started
+
+  Prerequisites
 
 Python 3.x installed on your system.
 
 Installation
 
 
-Clone the repository:
+# Clone the repository:
 
 git clone https://github.com/your-username/Hangman-Game.git
 
@@ -34,7 +36,7 @@ cd Hangman-Game
 Install any required dependencies (if applicable).
 
 
-Running the Game
+# Running the Game
 
 Open a terminal in the project directory.
 
@@ -43,7 +45,7 @@ Run the game script:
 python hangman.py
 
 
-How to Play
+# How to Play
 
 The game randomly selects a word from a predefined list.
 
